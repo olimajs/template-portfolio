@@ -1,0 +1,28 @@
+
+.icons .linkedin-icon {
+    display: inline-block;
+    background-image: url("../assets/icons/mywebimg/icons/linkedin.png");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 30px;
+    }
+.icons .github-icon {
+    display: inline-block;
+    background-image: url("../assets/icons/mywebimg/icons/github.svg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 30px;
+    }
+.icons .twitter-icon {
+    display: inline-block;
+    background-image: url("../assets/icons/mywebimg/icons/twitter.png");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 30px;
+    }
