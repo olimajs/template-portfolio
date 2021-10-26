@@ -249,6 +249,7 @@ footer p {
     padding: 0 5px;
 }
 
-.abmeheight {
-height: 150px;
+.notes-main-container .note-container .abmeheight {
+width: 250px;
+height: 250px;
 }
