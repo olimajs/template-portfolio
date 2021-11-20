@@ -178,11 +178,10 @@ nav .profile-link a {
     box-shadow: 0.15em 0.15em;
 }
 .blogs-posts-container .post-container {
-    display: inline-block;
+    display: inline-grid;
     padding-left: 10px;
     max-width: 30%;
-    margin-bottom: 50px;
-    text-align:left;
+    margin-bottom: 30px;
 }
 .blogs-posts-container .post-container p {
     margin-bottom: 35px;
@@ -193,9 +192,11 @@ nav .profile-link a {
     height: 150px;
 }
 .blogss-button {
-    border: 3px solid #ffffff;
+    border: 2px solid rgb(8 8 8 / 78%);
     border-radius: 10px;
-    padding: 10px 15px;
+    width: 60px;
+    height: 20px;
+    padding: 5px 6px;
     box-shadow: 0.1em 0.1em;
 }
 .blogss-button:hover {
