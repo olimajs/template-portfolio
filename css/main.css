@@ -99,6 +99,7 @@ nav .profile-link a {
     letter-spacing: 10px;
     text-align: center;
     color: white;
+    padding-top: 110px;
 }
 .home-main-text2 {
     font-size: 20px;
@@ -135,8 +136,9 @@ nav .profile-link a {
     display: grid;
 }
 .blogs-news-container {
-  background-color: #ebebeb;
-  padding: 0 50px 40px;
+    border-top: 3px solid white;
+    background-color: #ebebeb;
+    padding: 0 50px 40px;
 }
 .blogs-main-news {
     display: grid;
@@ -280,3 +282,8 @@ box-shadow:  20px 20px 43px #929292,
     text-align: center;
 
 }
+/*aca abajo es la clases de las img de about me*/
+.abmeheight {
+    width: 250px;
+    height: 200px;
+    }
